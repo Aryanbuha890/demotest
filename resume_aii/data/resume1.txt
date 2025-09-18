@@ -1,0 +1,64 @@
+ARYAN BUHA
+Email: aryanbuha56@gmail.com
+
+--------------------------------------------------------------------
+CAREER OBJECTIVE
+--------------------------------------------------------------------
+To leverage my skills in computer science and problem-solving to
+contribute to impactful projects while continuously learning and
+growing in the field of software engineering.
+
+--------------------------------------------------------------------
+EDUCATION
+--------------------------------------------------------------------
+Bachelor of Technology (B.Tech) in Computer Science Engineering
+GIA, Vadodara | 2nd Year | Expected Graduation:2028
+--------------------------------------------------------------------
+TECHNICAL SKILLS
+--------------------------------------------------------------------
+- Programming Languages: Java, C++, Python, JavaScript
+- Web Development: HTML, CSS, React.js, Node.js
+- Tools & Platforms: Git/GitHub, VS Code
+- Interests: Artificial Intelligence, Data Structures & Algorithms,
+  Software Development, UI/UX
+
+--------------------------------------------------------------------
+PROJECTS
+--------------------------------------------------------------------
+MindMate – A Productivity App
+- Features: Task manager with reminders, file vault, PDF summarizer,
+  Pomodoro timer, daily dashboard
+- Built with React.js, Node.js, and offline support
+
+CareerBuddy – Career Guidance Platform
+- Modules: Resume Builder (Core Java), Skill Builder, Roadmap Guide,
+  Project Builder, Internship Tracker
+- Role: Implemented Resume Builder in Core Java
+
+Subway Surfers-like Game
+- Developed an interactive endless runner game with coins, power-ups,
+  and character controls
+- Added sound effects and animations
+
+--------------------------------------------------------------------
+ACHIEVEMENTS
+--------------------------------------------------------------------
+- Participated in Smart India Hackathon (SIH)
+- Completed multiple coding projects and hackathon prototypes
+- Consistently improving coding and problem-solving skills
+
+--------------------------------------------------------------------
+STRENGTHS
+--------------------------------------------------------------------
+- Quick learner and adaptable
+- Strong logical and analytical thinking
+- Team collaboration and leadership
+- Creative problem solving
+
+--------------------------------------------------------------------
+HOBBIES & INTERESTS
+--------------------------------------------------------------------
+- Building interactive apps and games
+- Exploring new technologies
+- Graphic design & UI/UX
+- Reading about AI advancements

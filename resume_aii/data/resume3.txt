@@ -1,0 +1,88 @@
+
+
+Sumit Patel
+Email: sumit.patel@gmail.com
+Location: Vadodara, India
+
+--------------------------------------------------------------------
+CAREER OBJECTIVE
+--------------------------------------------------------------------
+Motivated and detail-oriented Computer Science student with proven 
+industry experience at Mastercard. Skilled in software development, 
+problem-solving, and delivering impactful projects. Seeking 
+opportunities to contribute technical expertise while continuously 
+learning and growing as a software engineer.
+
+--------------------------------------------------------------------
+EDUCATION
+--------------------------------------------------------------------
+Bachelor of Technology (B.Tech) in Computer Science Engineering
+Government Institute of Advanced (GIA), Vadodara | 2nd Year 
+Expected Graduation: 2028
+
+--------------------------------------------------------------------
+EXPERIENCE
+--------------------------------------------------------------------
+Software Engineer Intern / Associate (2 Years)
+Mastercard | 2022 – 2024
+- Contributed to backend development and integration of secure 
+  payment processing systems.
+- Improved transaction performance and reliability by optimizing 
+  code and debugging critical issues.
+- Collaborated with cross-functional teams to deliver scalable 
+  software solutions.
+- Worked with technologies like Java, Spring Boot, REST APIs, 
+  and SQL to build enterprise-grade applications.
+- Gained hands-on experience in Agile development and software 
+  lifecycle management.
+
+--------------------------------------------------------------------
+TECHNICAL SKILLS
+--------------------------------------------------------------------
+- Programming Languages: Java, C++, Python, JavaScript
+- Web Development: HTML, CSS, React.js, Node.js
+- Tools & Platforms: Git, GitHub, VS Code, Agile/Scrum
+- Areas of Interest: Artificial Intelligence, Data Structures & 
+  Algorithms, Software Development, UI/UX
+
+--------------------------------------------------------------------
+PROJECTS
+--------------------------------------------------------------------
+MindMate – Productivity App
+- Built a productivity app with task manager, reminders, file vault, 
+  PDF summarizer, Pomodoro timer, and daily dashboard.
+- Developed using React.js & Node.js with offline support.
+
+CareerBuddy – Career Guidance Platform
+- Designed modules: Resume Builder (Core Java), Skill Builder, 
+  Roadmap Guide, Project Builder, Internship Tracker.
+- Implemented the Resume Builder feature in Core Java.
+
+Subway Surfers-like Game
+- Developed an interactive endless runner game featuring coins, 
+  power-ups, sound effects, and character animations.
+
+--------------------------------------------------------------------
+ACHIEVEMENTS
+--------------------------------------------------------------------
+- Participant in Smart India Hackathon (SIH).
+- Built multiple coding projects and hackathon prototypes.
+- Industry exposure at Mastercard, strengthening professional and 
+  technical expertise.
+
+--------------------------------------------------------------------
+STRENGTHS
+--------------------------------------------------------------------
+- Quick learner and adaptable
+- Strong logical & analytical skills
+- Team collaboration & leadership
+- Creative problem solving
+
+--------------------------------------------------------------------
+HOBBIES & INTERESTS
+--------------------------------------------------------------------
+- Building interactive apps and games
+- Exploring new technologies
+- Graphic design & UI/UX
+- Reading about AI advancements
+

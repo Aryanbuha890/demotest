@@ -1,0 +1,12 @@
+torch
+transformers
+sentence-transformers
+scikit-learn
+pandas
+numpy
+uvicorn
+fastapi
+python-multipart
+pdfplumber
+python-docx
+datasets
